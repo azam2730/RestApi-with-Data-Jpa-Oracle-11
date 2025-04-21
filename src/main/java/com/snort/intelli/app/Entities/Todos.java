@@ -13,6 +13,7 @@ public class Todos {
 	private Boolean completed;
 	private Date assignedDate;
 	private Date updatedDate;
+	System.out.println("FORK-DEMO");
 
 	public Todos() {
 		super(); 
